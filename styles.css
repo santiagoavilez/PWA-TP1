@@ -1,11 +1,7 @@
-
-
-main {
+body {
     background-image: url("img/fondo.jpg");
     background-repeat: repeat;
 }
-
-
 @media only screen and (min-width: 990px){
     #columna-1{
         background-color: red;

@@ -90,6 +90,12 @@
                         <li class="nav-item">
                             <a class="nav-link" href="./ejercicio9.php">Ejercicio 9</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./ejercicio10.php">Ejercicio 10</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./ejercicio11.php">Ejercicio Final</a>
+                        </li>
                     </ul>
 
                 </div>

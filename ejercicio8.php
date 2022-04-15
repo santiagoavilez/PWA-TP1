@@ -3,7 +3,7 @@ $Titulo = "Ejercicio 8";
 include_once("./header.php");
 ?>
 
-<div class="container align-center m-5">
+<div class="container align-center">
     <h1 class="text-center">EJERCICIO 2</h1>
     <div class="row">
         <div class="col-xxl-10 col-xl-9 col-lg-8 col-md-5 col-sm-6 col-5 bg-light border border-2 border-dark">
